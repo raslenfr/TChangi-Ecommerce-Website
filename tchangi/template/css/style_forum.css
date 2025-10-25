@@ -1,0 +1,243 @@
+
+.left-header {
+    background-color: #15161D;
+    width: 20%;
+    height: 100%;
+    position:fixed;
+    display:inline;
+    align-content: center ;
+    padding: 200px 4px;
+    
+    
+}
+.left-header img{
+    padding: 40px;
+    margin-top: -250px;
+}
+.navigation{
+    margin-top: -90px;
+}
+.navigation a{
+    color: #FFF8DC;
+    display:inline-flex;
+    padding: 15px 40px;
+    font-size: 1.5em;
+}
+.navigation a:hover{
+    font-size: 1.7em;
+}
+.pub{
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.7);
+    position:fixed;
+    top:0;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    display: none;
+    transition: 0.5s ease-in;
+}
+.sujet-pub{
+    display: flex;
+    margin-bottom: 20px;
+}
+.sujet-pub input{
+    width: 50%;
+    height: 30px;
+    margin-top: 5px;
+}
+.sujet-pub h1{
+    font-size: 20px;
+    margin: 10px;
+    margin-right: 10px;
+}
+
+.pub img{
+    float: left;
+    border-radius: 60px;
+    margin-bottom: 10px;
+}
+.submit-btn {
+    height: 40px;
+    width: 100px;
+    background: #D10024;
+    color: #FFF;
+    font-weight: 700;
+    border: none;
+    border-radius: 0px 40px 40px 0px;
+    float: right;
+    margin-top: 10px;
+    transition: 0.2s ease-in;
+  }
+.submit-btn:hover{
+    background: #B50C0C ;
+}
+.pub-card textarea{
+    margin-top: 50px;
+    background-color: w ;
+    color: gray;
+    padding: 1em;
+    border-radius: 10px;
+    border: 2px solid transparent;
+    outline:none;
+    font-weight: 500;
+    font-size: 16;
+}
+.pub-card{
+    width: 500px;
+    height: 350px;
+    background-color: rgb(245, 245, 245);
+    border-radius: 8px;
+    text-align: center;
+    padding: 20px;
+}
+.close{
+    cursor: pointer;
+    font-size: 40px;
+    transform: rotate(45deg);
+    transition: 0.5s ease-in;
+}
+.close:hover{
+    font-size: 3em;
+}
+.sujet {
+    display:block ;
+}
+.sujet:hover .sujet-menu li{
+    display:block ;
+    
+}
+.sujet-menu li{
+    background-color: #15161D;
+    font-size: 10px;
+    margin-left: 15px;
+    margin-bottom:-20px;
+    margin-top: -20px;
+    display: none;
+}
+
+.acc {
+    background-color: #B9B7CA ;
+    color:white;
+    width: 80%;
+    opacity: 0.7;
+    font-size: 26px;
+    padding: 10px 60px;
+    margin-left: 295px;
+   }
+.acc h1{
+    margin-left: 20px;
+}
+.publication{
+    background-color:#B9B7CA  ;
+    width: 40%;
+    height: 100%;
+    border-radius: 5px;
+    padding: 40px;
+    margin:40px 330px;
+    transition: 1s ease;
+}
+.publication:hover:hover{
+    background-color:#99999E ;
+}
+.publication img{
+    float: left;
+    border-radius: 60px;
+    margin-bottom: 10px;
+    margin-right: 10px;
+}
+.up{
+    float:right;
+}
+.up i{
+    font-size: 2em;
+    margin-left: 20px;
+}
+.user-name{
+    margin-right: 10px;
+    margin-bottom: 20px;
+}
+.commenter-btn{
+    height: 35px;
+    width: 100px;
+    background: #D10024;
+    color: #FFF;
+    font-weight: 700;
+    border: none;
+    border-radius: 0px 40px 40px 0px;
+    float: right;
+    transition: 0.2s ease-in;
+}
+
+.sujet-1{
+    margin-top: -10px ;
+}
+
+.com{
+        width: 100%;
+        height: 100%;
+        background-color: rgba(0, 0, 0, 0.7);
+        position:fixed;
+        top:0;
+        display:flex;
+        justify-content: center;
+        align-items: center;
+        display: none;
+        transition: 0.5s ease-in;
+        margin-left: -320px;
+}
+.pub-card textarea{
+    margin-top: 50px;
+    background-color: w ;
+    color: gray;
+    padding: 1em;
+    border-radius: 10px;
+    border: 2px solid transparent;
+    outline:none;
+    font-weight: 500;
+    font-size: 16;
+    margin-top: -10px;
+}
+
+
+.voir-card{
+    width: 1000px;
+    height: 350px;
+    background-color: #B9B7CA ;
+    border-radius: 8px;
+    text-align: center;
+    padding: 40px;
+    margin-left: 300px;
+    margin-top: 20px;
+    margin-right: 100px;
+    display: none;
+}
+
+.voir img{
+    float: left;
+    border-radius: 60px;
+    margin-bottom: 10px;
+    margin-right: 10px;
+}
+.user-name{
+    margin-right: 10px;
+    margin-bottom: 20px;
+}
+.retourner-btn{
+height: 35px;
+    width: 100px;
+    background: #D10024;
+    color: #FFF;
+    font-weight: 700;
+    border: none;
+    border-radius: 0px 40px 40px 0px;
+    float: right;
+    transition: 0.2s ease-in;
+    
+}
+
+.comments h2{
+    font-size: 16px;
+    color: #15161D;
+}

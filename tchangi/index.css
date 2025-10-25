@@ -1,0 +1,20 @@
+.upper-header{
+    display: flex;
+    padding: 20px 50px;
+    background-color: #1E1F29;
+}
+.upper-header p{
+    margin-left: 20px;
+    color: white;
+}
+.upper-header i{
+    margin-right: 5px;
+}
+.upper-header a{
+    font-size: 0.8em;
+    color: white;
+    margin-top: 5px;
+    margin-left: 200px;
+    text-decoration: none;  
+    display: flex;
+}

@@ -1,0 +1,214 @@
+/* LEFT HEADER */
+.left-header {
+    background-color: #15161D;
+    width: 20%;
+    height: 100%;
+    position:fixed;
+    display:inline;
+    align-content: center ;
+    padding: 150px 1px;
+    margin-top: -40px;
+    margin-left: -10px;
+}
+.left-header img{
+    padding: 40px;
+    margin-top: -250px;
+}
+.navigation{
+    margin-top: 10px;
+}
+.navigation a{
+    color: #FFF8DC;
+    display:block;
+    padding: 15px 40px;
+    font-size: 1.9em;
+    text-decoration:none;
+}
+.navigation a:hover{
+    font-size: 1.5em;
+}
+.sujet {
+    display:block ;
+}
+.sujet:hover .sujet-menu li{
+    display:block ;
+    
+}
+.sujet-menu li{
+    background-color: #15161D;
+    text-decoration:none;
+    font-size: 10px;
+    margin-left: 15px;
+    margin-bottom:-20px;
+    margin-top: -20px;
+    display: none;
+}
+.tri a{
+    font-size: 3em;
+}
+
+/* ACCUEIL TOP */
+
+
+/*.acc {
+    background-color: #B9B7CA ;
+    color:white;
+    width: 100%;
+    opacity: 0.9;
+    font-size: 26px;
+    padding: 1px 60px;
+    margin-left: 300px;
+    position: absolute;
+    margin-top: -30px;
+   }
+.acc h1{
+    margin-left: 220px;
+}*/
+
+/* CARD PUB*/
+
+.publication{
+    background-color:#B9B7CA  ;
+    width: 40%;
+    border-radius: 5px;
+    padding: 50px;
+    margin: -40px 320px;
+    margin-bottom: 60px;
+    display: block;
+    position: relative;
+    transition: 1s ease;
+}
+
+.publication:hover:hover{
+    background-color:#99999E ;
+}
+.user-name{
+    margin-top: -30px;
+    margin-right: 10px;
+    margin-bottom: 20px;
+}
+.update-btn{
+    height: 35px;
+    width: 100px;
+    background: #D10024;
+    color: #FFF;
+    font-weight: 700;
+    border: none;
+    border-radius: 40px 0px 0px 40px;
+    float: left;
+    transition: 0.2s ease-in;
+    margin-bottom: 5px;
+}
+.delete-btn{
+    height: 35px;
+    width: 100px;
+    background: #D10024;
+    color: #FFF;
+    font-weight: 700;
+    border: none;
+   border-radius: 0px 40px 40px 0px;
+   float:right;
+  
+    transition: 0.2s ease-in;
+    
+}
+.commenter-btn{
+    height: 35px;
+    width: 100px;
+    background: #D10024;
+    color: #FFF;
+    font-weight: 700;
+    border: none;
+    border-radius: 40px 0px 0px 40px;
+    float: right;
+    transition: 0.2s ease-in;
+    margin-bottom: 5px;
+    margin-right: 5px;
+}
+.commenter-btn:hover{
+    transform: scale(1.05);
+}
+.update-btn:hover{
+    transform: scale(1.05);
+}
+.delete-btn:hover{
+    transform: scale(1.05);
+}
+.publication img{
+    float: left;
+    border-radius: 60px;
+    margin-bottom: 10px;
+    margin-right: 10px;
+}
+.sujet-1{
+    margin-top: -10px ;
+    
+}
+.com{
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.7);
+    position:fixed;
+    top:0;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    display: none;
+    transition: 0.5s ease-in;
+    margin-left: -370px;
+}
+
+.content{
+    font-size: 50px;
+    margin-top: -60px;
+}
+.pub-card textarea{
+margin-top: 50px;
+background-color: w ;
+color: gray;
+padding: 1em;
+border-radius: 10px;
+border: 2px solid transparent;
+outline:none;
+font-weight: 500;
+font-size: 16;
+margin-top: -10px;
+}
+.like{
+    font-size: 1.5em;
+    color:	#483D8B;
+    float: right;
+    margin-right: 30px;
+
+}
+.like a{
+    text-decoration: none;
+    color: #483D8B;
+}
+.like a:hover{
+    color: 	#556B2F;
+}
+.deslike{
+    font-size: 1.5em;
+    color:	#483D8B;
+    float: right;
+    margin-right: 30px;
+
+}
+.deslike a{
+    text-decoration: none;
+    color: #483D8B;
+}
+.deslike a:hover{
+    color: 	#556B2F;
+}
+.table-add{
+    width: 0px;
+    border-collapse:collapse;
+    font-size: 1.5em;
+    background-color:gray;
+}
+.text{
+    width: 200px;
+    height: 150px;
+}
