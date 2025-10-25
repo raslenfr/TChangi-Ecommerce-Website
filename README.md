@@ -1,7 +1,7 @@
-# Changi: E-Commerce Barter Website 🛒💰
+# TChangi: E-Commerce Barter Website 🛒💰
 
-I’m thrilled to share **Changi**, my first e-commerce barter website!  
-Changi allows users to **exchange items they no longer need** for items they want, promoting **sustainability, savings, and community connections**. Every item traded gives it a **new life instead of being thrown away**, making everyone a winner! 🌟
+I’m thrilled to share **TChangi**, my first e-commerce barter website!  
+TChangi allows users to **exchange items they no longer need** for items they want, promoting **sustainability, savings, and community connections**. Every item traded gives it a **new life instead of being thrown away**, making everyone a winner! 🌟
 
 ---
 
@@ -15,7 +15,7 @@ Changi allows users to **exchange items they no longer need** for items they wan
 ---
 
 ## 🛒 Project Overview
-Changi is a full-featured **e-commerce barter platform** where users, administrators, and delivery personnel can interact through secure and easy-to-use interfaces. The website includes **all major management systems** to operate a barter marketplace effectively:
+TChangi is a full-featured **e-commerce barter platform** where users, administrators, and delivery personnel can interact through secure and easy-to-use interfaces. The website includes **all major management systems** to operate a barter marketplace effectively:
 
 - **Client Management**: CRUD operations for clients, view complaints, and track purchase/sale history.  
 - **Delivery Management**: Manage delivery personnel, track deliveries, and view complaints.  
