@@ -1,7 +1,9 @@
 # TChangi: E-Commerce Barter Website 🛒💰
 
 I’m thrilled to share **TChangi**, my first e-commerce barter website!  
-TChangi (also called **Chanji**) allows users to **exchange items they no longer need** for items they want, promoting **sustainability, savings, and community connections**. Every item traded gets a **second life instead of being thrown away**, making everyone a winner! 🌟
+TChangi (also called **Chanji**) allows users to **exchange items they no longer need** for items they want, promoting **sustainability, savings, and community connections**. Every item traded gets a **second life instead of being thrown away**, making everyone a winner! 🌟   
+
+**Watch the live demo on YouTube:** [Paste your YouTube link here] 🎥  
 
 ---
 
@@ -15,18 +17,18 @@ TChangi (also called **Chanji**) allows users to **exchange items they no longer
 ---
 
 ## 🛒 Project Overview
-TChangi / Chanji is a full-featured **e-commerce barter platform** where users, administrators, and delivery personnel can interact through secure and easy-to-use interfaces. The website includes **all major management systems** to operate a barter marketplace effectively:
+TChangi / Chanji is a full-featured **e-commerce barter platform** with **admin and client interfaces**, where users, administrators, and delivery personnel can interact. The website includes **all major management systems** with **full CRUD functionality**:
 
-- **Client Management**: CRUD operations for clients, view complaints, and track purchase/sale history  
-- **Delivery Management**: Manage delivery personnel, track deliveries, and view complaints  
-- **Payment Management**: Generate and manage invoices, view purchase history  
-- **Administrative Management**: Control clients, delivery personnel, and manage items in the system  
-- **Purchase Management**: View, delete, and manage items for trade  
+- **👤 Client Management**: Admin & client interfaces, full CRUD, view complaints, and track purchase/sale history  
+- **🚚 Delivery Management**: Admin & client interfaces, full CRUD, manage delivery personnel, track deliveries, and view complaints  
+- **💳 Payment Management**: Admin & client interfaces, full CRUD, generate and manage invoices, view purchase history  
+- **🛠️ Administrative Management**: Admin interface with full CRUD to control clients, delivery personnel, and items  
+- **🛍️ Purchase Management**: Admin & client interfaces, full CRUD to view, delete, and manage items for trade  
 
 ---
 
 ## 📂 Repository Contents
-This repository includes everything related to **TChangi / Chanji**, fully **open-source and free**:  
+This repository includes everything related to **TChangi**, fully **open-source and free**:  
 
 1. **Presentations** 📊  
    - Final advertisement presentation  
@@ -51,7 +53,8 @@ This repository includes everything related to **TChangi / Chanji**, fully **ope
 ## ✨ Features
 - Secure user accounts 🔒  
 - Easy-to-use menu and navigation 🖱️  
-- CRUD functionality for all types of users and items 🛠️  
+- Full CRUD functionality for all management modules 🛠️  
+- Admin and client interfaces for all managements 🖥️📱  
 - Visual charts, logos, and design elements 🎨  
 - Fully interactive e-commerce barter system 🛒  
 
